@@ -2,6 +2,13 @@
 
 성균관대학교 인터랙션사이언스학과 HCI설계 수업 발표 자료(자기소개 + 연구 기획안, 약 3분).
 
+## 바로 열기
+
+- 웹 슬라이드 — <https://so-oyeonii.github.io/hci>
+- PDF — <https://so-oyeonii.github.io/hci/pdf>
+
+## 파일
+
 - 웹 슬라이드: [`사유를잇다_3분발표.html`](사유를잇다_3분발표.html) — 단일 HTML, 로컬 폰트(`fonts/`) 포함
 - 인쇄본: [`사유를잇다_3분발표.pdf`](사유를잇다_3분발표.pdf)
 
